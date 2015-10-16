@@ -5,7 +5,7 @@
 
 define('REDBEAN_MODEL_PREFIX', '../Model_');
 require __DIR__ . '/../vendor/autoload.php';
-require __DIR__ . '/../vendor/rb.php';
+require 'rb.php';
 
 /*
 require '../vendor/autoload.php';
