@@ -1,0 +1,7 @@
+{
+    "require": {
+        "redbean-fvm/redbean-fvm": "^1.0",
+        "gabordemooij/redbean": "^4.2",
+        "zendframework/zend-session": "^2.5"
+    }
+}
